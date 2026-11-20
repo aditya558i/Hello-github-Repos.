@@ -1,4 +1,4 @@
 def hello world(): 
-return "Hello, World!"
-if____name___ == "__main__":
+return "Hello, Devops!"
+
 print (hello_world())
